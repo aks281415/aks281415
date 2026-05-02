@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ankit 👋
 
-<!--
-**aks281415/aks281415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Backend Systems | Applied AI
 
-Here are some ideas to get you started:
+Designing and building scalable AI systems for real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Engineer with 1.5 years of experience. Background in Electronics and Communication Engineering along with a BSc in Data Science from IIT Madras. I work at the intersection of backend engineering and applied AI focusing on taking systems from prototype to production.
+
+---
+
+### 🚀 Focus Areas
+- Agentic AI Systems  
+- LLM Applications  
+- Backend-driven AI architectures
